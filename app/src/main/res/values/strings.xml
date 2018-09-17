@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="deliveries_list_item_title">%s at %s</string>
+    <string name="delivery_details">Delivery Details</string>
+    <string name="main_activity_title">Things to Deliver</string>
+    <string name="connection_error">Connection error!</string>
+    <string name="server_error">Server Error!</string>
+    <string name="retry">Retry</string>
+    <string name="itemTransitionName">item_transition_name</string>
+</resources>
